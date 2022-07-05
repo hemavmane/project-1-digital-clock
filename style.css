@@ -1,0 +1,34 @@
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< General >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>. */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family:' orbitron',sans-serif;
+   
+}
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  main >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.. */
+.container{
+    width: 100%;
+    height: 100vh;
+    font-size: 30px;
+    font-weight: 200;
+    text-align: center;
+    background-color: cadetblue;
+    background: linear-gradient(to bottom, #ff99cc -3%, #336600 84%);
+} 
+
+.clock{
+    color: white;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-shadow: #0099cc
+}
+
+font{
+    font-size:400px ;
+}
+
